@@ -1,0 +1,9 @@
+langchain
+langchain_core
+# google-generativeai
+# google.generativeai
+langchain_google_genai
+langserve
+fastapi
+uvicorn
+python-dotenv
